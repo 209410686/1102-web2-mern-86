@@ -1,5 +1,5 @@
 import Logo_86 from '../components/Logo_86';
-import main from '../assets/images/main.svg';
+import main from '../assets/images/main-alternative.svg';
 
 import styled from 'styled-components';
 
